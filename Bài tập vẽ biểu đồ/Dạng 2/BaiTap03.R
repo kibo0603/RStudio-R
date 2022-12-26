@@ -6,3 +6,4 @@ NameGroup1 <- c("Detroit, MI", "Milwaukee, WI", "Newark, NJ", "Portland, OR", "D
 Rate1 <- c(4.10, 3.69, 3.20, 3.10, 2.97, 2.64, 2,47, 2.39, 2.38, 2.29)
 
 Xin chào bạn
+Hello
